@@ -14,5 +14,9 @@
 	this is part of the info
 
 
-> [!NOTE]-
+> [!NOTE]+
 > Test
+
+
+> [!example] 
+> $$f(x)=\frac{1}{2}x^2+5$$
