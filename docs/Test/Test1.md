@@ -10,8 +10,8 @@
 <p>Hallo</p>
 </details>
 
-> [!INFO]-
-> Test
+??? info
+	this is part of the info
 
 
 > [!NOTE]-
