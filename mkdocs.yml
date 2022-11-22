@@ -46,6 +46,7 @@ markdown_extensions:
 
 plugins:
   - search
+  - callouts
   - roamlinks 
   - mermaid2
 
