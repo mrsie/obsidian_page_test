@@ -14,5 +14,5 @@
 > Test
 
 
-> [!ALERT]
-> Test
+!!! note
+Test
